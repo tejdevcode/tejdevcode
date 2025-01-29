@@ -3,7 +3,7 @@
 <p class="has-line-data" data-line-start="3" data-line-end="7">🔭 I’m currently working on Frontend(NEXTJS, ReactJS)<br>
 🤝 I’m looking to collaborate on Froentend and UI development projects<br>
 💬 Ask me about Web and Froentend Development<br>
-⚡ Fun fact: &nbsp;&nbsp;  while(alive){🍽️eat();&nbsp;🛌sleep();&nbsp;👩‍💻code();&nbsp;🔁repeat();}</p>
+⚡ Fun fact: &nbsp;&nbsp;  while(alive){🍽️eat(&nbsp;);&nbsp;🛌sleep(&nbsp;);&nbsp;👩‍💻code(&nbsp;);&nbsp;🔁repeat(&nbsp;);}</p>
 <h2 class="code-line" data-line-start=6 data-line-end=7 ><a id="_Socials_6"></a>🌐 Socials:</h2>
 <p class="has-line-data" data-line-start="7" data-line-end="8"><a href="https://linkedin.com/in/tej-radadiya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/tejrdev"><img src="https://img.shields.io/badge/X-black.svg?logo=X&amp;logoColor=white" alt="X"></a></p>
 <h1 class="code-line" data-line-start=9 data-line-end=10 ><a id="_Tech_Stack_9"></a>💻 Tech Stack:</h1>
