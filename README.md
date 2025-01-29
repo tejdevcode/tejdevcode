@@ -12,4 +12,4 @@
 <p class="has-line-data" data-line-start="12" data-line-end="15"><img src="https://github-readme-stats.vercel.app/api?username=tejrdev&amp;theme=light&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false" alt=""><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejrdev&amp;theme=light&amp;hide_border=false" alt=""><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejrdev&amp;theme=light&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt=""></p>
-<p style=" border: 1px solid #d1d9e0; border-radius: 0.375rem; "><img src="https://profile-readme-generator.com/assets/snake.svg" alt=""></p>
+<p class="has-line-data"><img src="https://profile-readme-generator.com/assets/snake.svg" alt=""></p>
